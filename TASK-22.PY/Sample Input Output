@@ -1,1 +1,7 @@
+Sample Input
+Enter Loan Amount: 500000
+Enter Annual Interest Rate (%): 8
+Enter Repayment Duration (Months): 60
 
+Sample Output
+EMI = 10138.064520982208
