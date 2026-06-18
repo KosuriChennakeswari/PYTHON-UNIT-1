@@ -1,1 +1,12 @@
-
+Start the program.
+Import the math module.
+Display the menu of scientific operations.
+Get the user's choice.
+Perform the selected operation:
+Square Root: Input number and calculate sqrt().
+Power: Input base and exponent and calculate power.
+Logarithm: Input number and calculate log10().
+Sine/Cosine/Tangent: Input angle, convert to radians, and calculate the value.
+Display the result.
+If the choice is invalid, display an error message.
+Stop the program.
