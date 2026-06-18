@@ -1,1 +1,9 @@
+Input the item price.
+Input the quantity of items purchased.
 
+Calculate the total cost using the formula:
+
+Total Cost = Item Price × Quantity
+
+Display the shopping bill amount.
+Stop the program.
