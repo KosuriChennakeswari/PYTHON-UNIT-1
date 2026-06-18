@@ -1,1 +1,14 @@
+Input travel distance in kilometers.
+Input vehicle mileage in kilometers per liter.
+Input fuel price per liter.
 
+Calculate fuel required using:
+
+Fuel Required = Distance / Mileage
+
+Calculate total fuel cost using:
+
+Fuel Cost = Fuel Required × Fuel Price
+
+Display the fuel required and total fuel cost.
+Stop the program.
