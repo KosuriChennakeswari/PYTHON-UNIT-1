@@ -1,1 +1,8 @@
+Sample Input
+Enter Travel Distance (km): 300
+Enter Mileage (km/liter): 15
+Enter Fuel Price per Liter: 100
 
+Sample Output
+Fuel Required = 20.0 liters
+Fuel Cost = Rs. 2000.0
