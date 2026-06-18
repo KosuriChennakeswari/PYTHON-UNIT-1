@@ -1,4 +1,5 @@
 #4 Write a Python program to calculate the area of a circle for a given radius
+
 radius = float(input("Enter radius of the circle:"))
 area = 3.14 * (radius ** 2)
 print("Area of Circle:",area)
